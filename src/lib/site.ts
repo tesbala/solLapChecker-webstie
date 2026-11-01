@@ -1,6 +1,6 @@
 export const SITE = {
   name: "SolLapChecker",
-  url: "https://lapchecker.sollabstech.com",
+  url: "https://www.lapchecker.sollabstech.com",
   company: "Sollabs Tech",
   companyUrl: "https://www.sollabstech.com",
   tagline: "Innovate. Build. Deliver.",
